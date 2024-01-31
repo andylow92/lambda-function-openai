@@ -25,6 +25,7 @@ Usage
     Configure the Lambda function to trigger it with your desired events.
     Provide your OpenAI API key in the get_api_key() function.
     Deploy and test the Lambda function with appropriate text prompts.
+    You will need to create a lambda layer to properly deploy it
 
 Dependencies
 
